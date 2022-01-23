@@ -5,3 +5,26 @@
 .convention p {
     font-weight: 700;
 }
+.list li{
+    list-style: none;
+}
+.list i{
+    color: #a5a0a3;
+}
+.thardchild{
+    background: #3f87f5;
+    border-radius: 25px;
+    color: white;
+    position: relative;
+    box-shadow: 0px -35px 0px 0px #3f87f5;
+}
+.hot {
+    background: red;
+    display: inline-block;
+    font-weight: 700;
+    border-radius: 10px;
+    padding: 0px 6px;
+    position: absolute;
+    top: -44px;
+    right: 29px;
+}
