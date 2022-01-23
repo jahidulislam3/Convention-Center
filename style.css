@@ -1,0 +1,7 @@
+.convention {
+    background-image: linear-gradient(2deg, #093cf7d9, transparent);
+    border-radius: 5px;
+}
+.convention p {
+    font-weight: 700;
+}
